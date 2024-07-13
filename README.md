@@ -1,5 +1,8 @@
 # CHaser-Client
 改良版のcheserとmap生成用のジェネレータです
+U16プログラミングコンテストやproconなどの開発時に活用してください
+サーバーソフトウェア
+https://github.com/hal1437/AsahikawaProcon-Server/releases/tag/v1.74
 
 # 各概要
 ## Map Generator
