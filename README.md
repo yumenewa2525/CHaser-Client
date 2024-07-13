@@ -44,7 +44,7 @@ H:プレイヤーのHot位置x,プレイヤーのHot位置y
 - `H`: プレイヤーのHot位置
 
 ### 画像
-サーバーソフトのランダムツール
+サーバーソフト標準のランダムツール
 https://github.com/yumenewa2525/CHeser-Client/blob/main/map-before.png
 
 本ツールを使用し、ブロック数20 アイテム数20で出力した場合
