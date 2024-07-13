@@ -1,4 +1,4 @@
-# CHeser-Client
+# CHaser-Client
 改良版のcheserとmap生成用のジェネレータです
 
 # 各概要
