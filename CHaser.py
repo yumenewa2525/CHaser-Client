@@ -7,9 +7,6 @@ import os
 元のソースコード
 https://github.com/tomio2480/chaser-python/blob/master/CHaser.py
 """
-import socket
-import ipaddress
-import os
 
 class Client:
     def __init__(self):
